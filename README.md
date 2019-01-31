@@ -176,6 +176,11 @@
 
 **Vcr**. Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests. <https://github.com/vcr/vcr>
 
+`gem 'rspec-rails', group: [:test, :development]`
+
+**Rspec-Rails**. Rspec-rails brings the RSpec testing framework to Ruby on Rails as a drop-in alternative to its default testing framework, Minitest.. <https://github.com/rspec/rspec-rails>
+
+
 
 
 

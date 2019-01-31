@@ -68,6 +68,10 @@
 
 **Slim-Rails**. Slim-rails provides Slim generators for Rails 3+. <https://github.com/slim-template/slim-rails>
 
+`gem 'uglifier'`
+
+**Uglifier**. Ruby wrapper for UglifyJS JavaScript compressor. <https://github.com/lautis/uglifier>
+
 `gem 'jbuilder'`
 
 **Jbuilder**. Jbuilder gives you a simple DSL for declaring JSON structures that beats manipulating giant hash structures. <https://github.com/rails/jbuilder>
@@ -95,6 +99,103 @@
 `gem 'ransack'`
 
 **Ransack**. Ransack enables the creation of both simple and advanced search forms for your Ruby on Rails application. <https://github.com/activerecord-hackery/ransack>
+
+`gem 'devise'`
+
+**Devise**. Devise is a flexible authentication solution for Rails based on Warden. <https://github.com/plataformatec/devise>
+
+`gem 'state_machine', :require => 'state_machine/core'`
+
+**State Machine**. State Machine adds support for creating state machines for attributes on any Ruby class. <https://github.com/pluginaweek/state_machine>
+
+`gem 'whenever', require: false`
+
+**Whenever**. Whenever is a Ruby gem that provides a clear syntax for writing and deploying cron jobs. <https://github.com/javan/whenever>
+
+`gem 'sitemap_generator'`
+
+**Sitemap Generator**. SitemapGenerator is the easiest way to generate Sitemaps in Ruby. <https://github.com/kjvarga/sitemap_generator>
+
+`gem 'pry-rails', :group => :development`
+
+**Pry-Rails**. Pry is a powerful alternative to the standard IRB shell for Ruby. <https://github.com/rweng/pry-rails>
+
+`gem 'pry-theme', :group => :development`
+
+**Pry-Theme**. Pry Theme is a plugin for Pry, which helps you to customise your Pry colors via prytheme.rb files. <https://github.com/kyrylo/pry-theme>
+
+`gem 'priscilla', :group => :development`
+
+**Priscilla**. Frock up your console messages. <https://github.com/Arkham/priscilla>
+
+`gem 'priscilla', :group => :development`
+
+**Better Errors**. Better Errors replaces the standard Rails error page with a much better and more useful error page. <https://github.com/BetterErrors/better_errors>
+
+`gem 'capistrano', :group => :development`
+
+**Capistrano**. A deployment automation tool built on Ruby, Rake, and SSH. <https://github.com/capistrano/capistrano>
+
+`gem 'spring', :group => :development`
+
+**Spring**. Spring is a Rails application preloader. It speeds up development by keeping your application running in the background so you don't need to boot it every time you run a test, rake task or migration. <https://github.com/rails/spring>
+
+`gem 'spring-commands-rspec', :group => :development`
+
+**Spring-Commands-Rspec**. This gem implements the rspec command for Spring. <https://github.com/jonleighton/spring-commands-rspec>
+
+`gem 'shoulda-matchers', :group => :test`
+
+**Shoulda Matchers**. Shoulda Matchers provides RSpec- and Minitest-compatible one-liners that test common Rails functionality. <https://github.com/thoughtbot/shoulda-matchers>
+
+`gem 'rails-controller-testing', :group => :test`
+
+**Rails::Controller::Testing**. This gem brings back assigns to your controller tests as well as assert_template to both controller and integration tests. Note: This gem is only useful once assigns and assert_template have been removed from Rails. <https://github.com/rails/rails-controller-testing>
+
+`gem 'timecop', :group => :test`
+
+**Timecop**. A gem providing "time travel" and "time freezing" capabilities, making it dead simple to test time-dependent code. It provides a unified method to mock Time.now, Date.today, and DateTime.now in a single call. <https://github.com/travisjeffery/timecop>
+
+`gem 'factory_bot_rails', :group => :test`
+
+**Factory Bot Rails**. Factory_bot is a fixtures replacement with a straightforward definition syntax, support for multiple build strategies (saved instances, unsaved instances, attribute hashes, and stubbed objects), and support for multiple factories for the same class (user, admin_user, and so on), including factory inheritance. <https://github.com/thoughtbot/factory_bot_rails>
+
+`gem 'database_cleaner', :group => :test`
+
+**Database Cleaner**. Database Cleaner is a set of strategies for cleaning your database in Ruby. <https://github.com/DatabaseCleaner/database_cleaner>
+
+`gem 'webmock', :group => :test`
+
+**WebMock**. Library for stubbing and setting expectations on HTTP requests in Ruby. <https://github.com/bblimke/webmock>
+
+`gem 'simplecov', require: false, group: :test`
+
+**SimpleCov**. SimpleCov is a code coverage analysis tool for Ruby. <https://github.com/colszowka/simplecov>
+
+`gem 'vcr', group: :test`
+
+**Vcr**. Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests. <https://github.com/vcr/vcr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

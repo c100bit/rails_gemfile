@@ -36,6 +36,90 @@
 
 **Kaminari**. A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for modern web app frameworks and ORMs. <https://github.com/kaminari/kaminari>
 
+`gem 'faraday'`
+
+**Faraday**. Faraday is an HTTP client lib that provides a common interface over many adapters (such as Net::HTTP) and embraces the concept of Rack middleware when processing the request/response cycle. <https://github.com/lostisland/faraday>
+
+`gem 'friendly_id'`
+
+**FriendlyId**. FriendlyId is the "Swiss Army bulldozer" of slugging and permalink plugins for Active Record. It lets you create pretty URLs and work with human-friendly strings as if they were numeric ids. <https://github.com/norman/friendly_id>
+
+`gem 'babosa'`
+
+**Babosa**. Babosa is a library for creating human-friendly identifiers, aka "slugs". It can also be useful for normalizing and sanitizing data. <https://github.com/norman/babosa>
+
+`gem 'russian'`
+
+**Russian**. Russian language support for Ruby and Rails, using I18n library. <https://github.com/yaroslav/russian>
+
+`gem 'best_in_place'`
+
+**Best In Place**. Best in Place is a jQuery based AJAX Inplace-Editor that takes profit of RESTful server-side controllers to allow users to edit stuff with no need of forms. <https://github.com/bernat/best_in_place>
+
+`gem 'cocoon'`
+
+**Cocoon**. Cocoon makes it easier to handle nested forms. <https://github.com/nathanvda/cocoon>
+
+`gem 'simple_form'`
+
+**Simple Form**. Simple Form aims to be as flexible as possible while helping you with powerful components to create your forms. <https://github.com/plataformatec/simple_form>
+
+`gem 'slim-rails'`
+
+**Slim-Rails**. Slim-rails provides Slim generators for Rails 3+. <https://github.com/slim-template/slim-rails>
+
+`gem 'jbuilder'`
+
+**Jbuilder**. Jbuilder gives you a simple DSL for declaring JSON structures that beats manipulating giant hash structures. <https://github.com/rails/jbuilder>
+
+`gem 'coffee-rails'`
+
+**Coffee-Rails**. CoffeeScript adapter for the Rails asset pipeline. <https://github.com/rails/coffee-rails>
+
+`gem 'jquery-rails'`
+
+**Jquery-Rails**. jQuery! For Rails. <https://github.com/rails/jquery-rails>
+
+`gem 'bootstrap'`
+
+**Bootstrap Ruby Gem**. Bootstrap 4 ruby gem for Ruby on Rails (Sprockets) and Hanami (formerly Lotus). <https://github.com/twbs/bootstrap-rubygem>
+
+`gem 'font-awesome-rails'`
+
+**Font-Awesome-Rails**. Font-awesome-rails provides the Font-Awesome web fonts and stylesheets as a Rails engine for use with the asset pipeline. <https://github.com/bokmann/font-awesome-rails>
+
+`gem 'breadcrumbs_on_rails'`
+
+**Breadcrumbs On Rails**. BreadcrumbsOnRails is a simple Ruby on Rails plugin for creating and managing a breadcrumb navigation for a Rails project. It provides helpers for creating navigation elements with a flexible interface. <https://github.com/weppos/breadcrumbs_on_rails>
+
+`gem 'ransack'`
+
+**Ransack**. Ransack enables the creation of both simple and advanced search forms for your Ruby on Rails application. <https://github.com/activerecord-hackery/ransack>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -178,9 +178,15 @@
 
 `gem 'rspec-rails', group: [:test, :development]`
 
-**Rspec-Rails**. Rspec-rails brings the RSpec testing framework to Ruby on Rails as a drop-in alternative to its default testing framework, Minitest.. <https://github.com/rspec/rspec-rails>
+**Rspec-Rails**. Rspec-rails brings the RSpec testing framework to Ruby on Rails as a drop-in alternative to its default testing framework, Minitest. <https://github.com/rspec/rspec-rails>
 
+`gem "reform"`
 
+**Reform**. Form objects decoupled from your models. <https://github.com/trailblazer/reform>
+
+`gem "wisper"`
+
+**Wisper**. A micro library providing Ruby objects with Publish-Subscribe capabilities. <https://github.com/krisleech/wisper>
 
 
 

@@ -188,6 +188,9 @@
 
 **Wisper**. A micro library providing Ruby objects with Publish-Subscribe capabilities. <https://github.com/krisleech/wisper>
 
+`gem "active_model_serializers"`
+
+**ActiveModelSerializers**. ActiveModelSerializers brings convention over configuration to your JSON generation. <https://github.com/rails-api/active_model_serializers>
 
 
 
